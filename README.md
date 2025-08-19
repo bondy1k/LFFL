@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fantasy League Site (IONOS PHP + MySQL)
 
 This is a minimal starter to get your league site live fast on IONOS shared hosting.
@@ -37,3 +38,6 @@ You can change these in `config.php` later, but the default list is:
 - `config.php` is ignored by git via `.gitignore` to keep credentials private.
 - The importer guesses column types; you can refine schemas later (add indexes, FKs).
 - Theme is dark with a subtle nWo nod—you can tweak `app.css`.
+=======
+# LFFL
+>>>>>>> 7ecef15a264b7e57083b899f983ccb5d49fd37aa
