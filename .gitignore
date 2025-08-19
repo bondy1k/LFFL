@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node (if you add later)
+node_modules/
+
+# Composer (if you add later)
+vendor/
+
+# Local config
+config.php
+tools/data/
